@@ -1,0 +1,7 @@
+.env
+test.py
+credentials.json
+token.json
+voice_message.ogg
+output_audio.wav
+kayoris.pem
