@@ -40,7 +40,8 @@ PINECONE_API_KEY: Your Pinecone database API key.
 WEATHER_API_KEY: Your API key for the weather service.
 GOOGLE_CALENDAR_CREDENTIALS: Your credentials for Google Calendar API.
 
-4. Run Kayoris
+4. Run Kayoris:
+ 
   python kayoris.py
 
 
