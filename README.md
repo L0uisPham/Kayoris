@@ -2,6 +2,10 @@
 
 This Telegram bot is designed to assist with Japanese language studies and enhance productivity through various integrated features. It's a multifunctional bot that integrates language learning tools, long-term memory aids, event management through Google Calendar, weather updates, and more.
 
+## Known bugs
+- requirements.txt is not up to date
+- Some changes have yet to be pushed
+
 ## Features
 
 - **Langchain Custom Tool**: A specialized tool integrated into the bot to assist in Japanese language studies. It offers various functionalities tailored for learners at different levels.
