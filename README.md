@@ -2,7 +2,7 @@
 
 Kayoris is a Telegram bot that is designed to assist with Japanese language studies and enhance productivity through various integrated features. It's a multifunctional bot that integrates language learning tools, long-term memory aids, event management through Google Calendar, weather updates, and more.
 
-![Description](assets/Untitled_5_P1.jpg)
+![Description](assets/kayoris.jpg)
 
 ## Known bugs
 - requirements.txt is not up to date
