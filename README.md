@@ -1,6 +1,6 @@
  # Kayoris 
 
-This Telegram bot is designed to assist with Japanese language studies and enhance productivity through various integrated features. It's a multifunctional bot that integrates language learning tools, long-term memory aids, event management through Google Calendar, weather updates, and more.
+Kayoris is a Telegram bot that is designed to assist with Japanese language studies and enhance productivity through various integrated features. It's a multifunctional bot that integrates language learning tools, long-term memory aids, event management through Google Calendar, weather updates, and more.
 
 ## Known bugs
 - requirements.txt is not up to date
@@ -8,23 +8,23 @@ This Telegram bot is designed to assist with Japanese language studies and enhan
 
 ## Features
 
-- **Langchain Custom Tool**: A specialized tool integrated into the bot to assist in Japanese language studies. It offers various functionalities tailored for learners at different levels.
+- **Langchain Custom Tool**: A specialized tool integrated into Kayoris along with promp engineering to assist users in their Japanese language studies.
 
-- **Long Term Memory with Pinecone Vector Database**: Utilizes Pinecone's vector database to implement a long-term memory feature, enhancing the learning and retention process.
+- **Long Term Memory with Pinecone Vector Database**: Utilizes Pinecone's vector database to implement a long-term memory feature, enhancing the learning and retention process
 
-- **Telegram Handler**: A robust telegram handling feature that manages interactions and ensures smooth communication with users.
+- **Telegram Handler**: A robust telegram handling feature that manages interactions and ensures smooth communication with users. The user can either text Kayoris or send voice messages and they will receive a response in both text and voice form
 
-- **Google Calendar Integration**: Allows users to access their Google Calendar directly through the bot. Users can view, create, and manage events seamlessly.
+- **Google Calendar Integration**: Allows users to access their Google Calendar directly through the Kayoris. Users can view and create events.
 
-- **Weather API Integration**: Provides real-time weather updates. Users can get current weather conditions and forecasts.
+- **Weather API Integration**: Provides real-time weather updates using OpenWeatherMap API. Users can get current weather conditions and forecasts.
 
 - **Wake Up Text**: Sends users a wake-up text combined with a weather report to start the day informed and prepared.
 
-- **Random Messages from Kayoris**: The bot can send random motivational or informative messages from Kayoris, adding an element of surprise and engagement.
+- **Random Messages from Kayoris**: Kayoris can send messages at random intervals initiating a conversation with the user
 
-- **Whisper Feature with Trigger Word**: Includes a whisper functionality that gets activated by a specific trigger word, enhancing interaction dynamics.
+- **Whisper Feature with Trigger Word**: Includes whisper to convert a voice file from telegram to text and pass it to GPT query
 
-- **Text-to-Speech (TTS)**: Implements TTS capabilities, making the bot more interactive and accessible.
+- **Text-to-Speech (TTS)**: Implements TTS capabilities, making the bot more interactive and accessible throught the use of Microsoft Azure Speech Studio
 
 ## Getting Started
 
