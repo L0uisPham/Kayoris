@@ -52,6 +52,7 @@ GOOGLE_CALENDAR_CREDENTIALS: Your credentials for Google Calendar API.
 
 
 5. Sample images:
+   
 ![Description](assets/Screenshot%20from%202023-12-01%2016-42-53.png)
 ![Description](assets/Screenshot%20from%202023-12-01%2016-43-37.png)
 ![Description](assets/Screenshot%20from%202023-12-01%2016-45-22.png)
