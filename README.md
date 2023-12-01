@@ -49,6 +49,19 @@ GOOGLE_CALENDAR_CREDENTIALS: Your credentials for Google Calendar API.
   python kayoris.py
 
 
+5. Sample images:
+![Description](relative/path/to/Screenshot%20from%202023-12-01%2016-42-53.png)
+![Description](relative/path/to/Screenshot%20from%202023-12-01%2016-43-37.png)
+![Description](relative/path/to/Screenshot%20from%202023-12-01%2016-45-22.png)
+![Description](relative/path/to/Screenshot%20from%202023-12-01%2016-45-54.png)
+![Description](relative/path/to/Screenshot%20from%202023-12-01%2016-47-08.png)
+![Description](relative/path/to/Screenshot%20from%202023-12-01%2016-48-16-12.png)
+![Description](relative/path/to/Screenshot%20from%202023-12-01%2016-51-00.png)
+![Description](relative/path/to/wp9376389.jpg)
+
+
+
+
 To do list:
 - Implement langchain custom tool that helps JP studies: Done
 - Implement long term memory using pinecone vector database: Done
