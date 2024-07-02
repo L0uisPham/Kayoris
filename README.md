@@ -34,7 +34,7 @@ To get started with this Telegram bot, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourgithubprofile/your-repository-name.git
+   git clone https://github.com/L0uisPham/Kayoris.git
 
 2. Install the required dependencies:
    ```bash
